@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Guilherme Tchornei</h1>
+
+- 🔭 I’m currently working on [Fibra-Colada-Ecommerce](https://github.com/GuilhermeTchornei/Fibra-Colada-Ecommerce)
+
+- 🌱 I’m currently learning **Java/Angular**
+
+- 💬 Ask me about **NodeJs, React, NestJs, NextJs**
+
+- ⚡ Fun fact **I like to develop RPG Sheets and games in  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> Unity**
+
+
+
 <h3 align="left">Connect with me:</h3>
 
+[![Gmail](https://img.shields.io/badge/guilhermetchornei@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermetchornei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tchornei/)
 
 <p align="left">
 </p>
